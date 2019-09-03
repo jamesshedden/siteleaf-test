@@ -33,5 +33,5 @@ defaults:
     type: properties
   values:
     layout: page
-    test_field:
+    test_field: 
 permalink: pretty
