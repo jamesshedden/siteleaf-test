@@ -28,4 +28,10 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: properties
+  values:
+    layout: page
+    test_field:
 permalink: pretty
