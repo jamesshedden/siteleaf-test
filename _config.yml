@@ -31,4 +31,5 @@ defaults:
   values:
     layout: page
     test_field: 
+    images:
 permalink: pretty
