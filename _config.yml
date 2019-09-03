@@ -5,9 +5,14 @@ collections:
   posts:
     title: Posts
     output: true
+    Images:
+    - 
   properties:
     title: Properties
     output: true
+    Test field: Foo
+    Images:
+    - "/uploads/8309651315_e66d38e64b_o.jpg"
   uploads:
     title: Uploads
     output: true
