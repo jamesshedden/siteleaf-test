@@ -41,7 +41,7 @@ defaults:
     valuations: []
     beds: 
     baths: 
-    rented: false
+    is_rented: false
     rent: 
     rent_gross: 
     rent_net: 
