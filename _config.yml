@@ -47,5 +47,10 @@ defaults:
     rent_net: 
     acquired: 
     status: 
-    fund: 
+    fund:
+    location:
+      postcode:
+      longitude:
+      latitude:
+    rationale:
 permalink: pretty
