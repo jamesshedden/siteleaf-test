@@ -29,6 +29,7 @@ defaults:
     path: ''
     type: properties
   values:
+    layout: page
     completed: false
     list_image:
     list_images:
