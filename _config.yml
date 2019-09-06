@@ -2,6 +2,9 @@
 title: James Test
 timezone: UTC
 collections:
+  posts:
+    title: Posts
+    output: true
   properties:
     title: Properties
     output: true
