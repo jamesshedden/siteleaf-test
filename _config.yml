@@ -33,24 +33,8 @@ defaults:
     test_field: 
     images: []
     is_completed: false
-    list_image:
-    list_images:
-    slug:
-    name:
-#     value:
-#     valuations: [],
-#     beds:
-#     baths:
-#     rented: false
-#     rent:
-#     rent_gross:
-#     rent_net:
-#     acquired:
-#     status:
-#     fund:
-#     location:
-#       postcode:
-#       longitude:
-#       latitude:
-#     rationale:
+    list_image: 
+    list_images: 
+    slug: 
+    name: 
 permalink: pretty
