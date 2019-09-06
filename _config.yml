@@ -32,5 +32,5 @@ defaults:
     layout: page
     test_field: 
     images: []
-    completed: false
+    is_completed: false
 permalink: pretty
