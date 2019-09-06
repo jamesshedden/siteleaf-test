@@ -30,8 +30,6 @@ defaults:
     type: properties
   values:
     layout: page
-    test_field: 
-    images: []
     is_completed: false
     list_image: 
     list_images: []
