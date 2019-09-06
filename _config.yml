@@ -2,11 +2,6 @@
 title: James Test
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
-    Images:
-    - 
   properties:
     title: Properties
     output: true
@@ -14,22 +9,26 @@ collections:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
   values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: properties
-  values:
-    layout: page
-    test_field: 
-    images: []
+    completed: false
+    list_image:
+    list_images:
+    slug:
+    name:
+    value:
+    valuations: [],
+    beds:
+    baths:
+    rented: false
+    rent:
+    rent_gross:
+    rent_net:
+    acquired:
+    status:
+    fund:
+    location:
+      postcode:
+      longitude:
+      latitude:
+    rationale:
 permalink: pretty
