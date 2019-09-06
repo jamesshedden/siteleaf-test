@@ -36,21 +36,16 @@ defaults:
     list_image: 
     list_images: []
     slug: 
-    name:
-    value:
+    name: 
+    value: 
     valuations: []
-    beds:
-    baths:
+    beds: 
+    baths: 
     rented: false
-    rent:
-    rent_gross:
-    rent_net:
-    acquired:
-    status:
-    fund:
-#     location:
-#       postcode:
-#       longitude:
-#       latitude:
-#     rationale:
+    rent: 
+    rent_gross: 
+    rent_net: 
+    acquired: 
+    status: 
+    fund: 
 permalink: pretty
