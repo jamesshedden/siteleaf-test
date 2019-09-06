@@ -30,25 +30,6 @@ defaults:
     type: properties
   values:
     layout: page
-    completed: false
-    list_image:
-    list_images:
-    slug:
-    name:
-    value:
-    valuations: [],
-    beds:
-    baths:
-    rented: false
-    rent:
-    rent_gross:
-    rent_net:
-    acquired:
-    status:
-    fund:
-    location:
-      postcode:
-      longitude:
-      latitude:
-    rationale:
+    test_field: 
+    images: []
 permalink: pretty
